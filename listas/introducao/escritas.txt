@@ -1,0 +1,15 @@
+10. 
+    a. Falso, o default não é obrigatório, ele é usado para o caso de não haver um caso para a entrada do usuario;
+    b. Verdadeiro;
+    c. Falso, o conector logico && é um 'e' logico, assim, é preciso que as duas condições sejam verdadeiras para que a expressao retorne verdadeiro;
+    d. Verdadeiro;
+    e. Falso, para testar uma serie de valores, é preciso declarar explicitamente
+    f. Verdadeiro;
+
+23. nenhuma das alternativas, a mais proxima eh a C;
+24. D;
+25. A;
+26. B;
+27. B;
+28. E;
+29. D;
